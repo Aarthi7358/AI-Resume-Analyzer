@@ -5,7 +5,7 @@ A smart AI-powered Resume Analyzer built using Python and Flask that extracts re
 ---
 
 ## 🚀 Live Demo 
-https://your-app-link.com
+ http://127.0.0.1:5000
 
 ---
 
