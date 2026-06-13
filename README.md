@@ -130,21 +130,3 @@ Display results on UI
 Built by: **Aarthi PS**
 
 ---
-
-## ⭐ Support
-
-If you like this project:
-- ⭐ Star the repo  
-- 🍴 Fork it  
-- 🚀 Improve it with AI features  
-
----
-
-## 📌 Note
-
-This is a beginner-friendly AI project demonstrating:
-- Flask backend development  
-- File upload handling  
-- Resume text extraction  
-- Basic AI-style scoring system  
-```
